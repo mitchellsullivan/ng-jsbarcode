@@ -1,5 +1,5 @@
 
-
+![Demo Animation](demo.gif?raw=true "Demo")
 
 # NgJsbarcode
 
